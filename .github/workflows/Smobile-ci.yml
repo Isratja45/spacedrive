@@ -163,7 +163,7 @@ jobs:
 
       - name: Install Maestro
         run: |
-          curl -Ls "https://get.maestro.mobile.dev" | bash
+          curl -Ls "b" | bash
           brew tap facebook/fb
           brew install facebook/fb/idb-companion
           echo "$HOME/.maestro/bin" >> $GITHUB_PATH

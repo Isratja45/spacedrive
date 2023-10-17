@@ -27,7 +27,7 @@ balloon-hash = "0.4.0"
 blake3 = { version = "1.3.3", features = ["traits-preview"] }
 
 # aeads
-aes-gcm = "0.10.1"
+aes-gcm = "0.10.3"
 chacha20poly1305 = "0.10.1"
 aead = { version = "0.5.1", features = ["stream"] }
 
